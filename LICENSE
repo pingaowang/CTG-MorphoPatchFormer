@@ -1,0 +1,53 @@
+CTG Research-Only Noncommercial License 1.0
+
+Copyright (c) 2026 Pingao Wang and contributing copyright holders.
+Project attribution: Pingao Wang and the Department of Obstetrics and Gynecology,
+The Seventh Affiliated Hospital, Sun Yat-sen University.
+An affiliation or project credit is not an assignment of copyright.
+
+1. Scope
+This license covers only the first-party material for which the distributing
+copyright holders have authority to grant these rights. Third-party components
+identified in THIRD_PARTY_NOTICES.md retain their own terms. In particular,
+third_party/wmfb is supplied separately under GPL-3.0, without the noncommercial
+or research-only restrictions of this license. No rights in datasets, patient
+information, trained weights, trademarks or clinical deployment are granted.
+
+2. Noncommercial research permission
+Subject to these terms, permission is granted without charge to inspect, run,
+copy, modify and redistribute the covered material solely for noncommercial
+scientific research, scientific evaluation, peer review and related teaching.
+Redistributed covered material and modifications must retain this license,
+copyright and attribution notices, clearly identify modifications, and be
+offered only under these same terms. Scientific papers may report results
+obtained through permitted research; authors should cite this project and the
+original methods they use. Attribution does not imply endorsement.
+
+3. Reserved uses
+Commercial use is not authorized. This includes sale, paid services, licensing
+for revenue, commercial product or service development, proprietary business
+deployment, and research primarily performed to develop or evaluate a commercial
+product or service. Use for diagnosis, patient management or other clinical
+operations is not authorized. Uses outside Section 2 require prior written
+permission from the applicable rights holders. Academic affiliation alone does
+not make a commercial or operational use permissible. No patent or trademark
+license is expressly granted.
+
+4. No entitlement to excluded material
+This grant does not require the authors to provide training code, preprocessing,
+data, annotations, fold lists, predictions, weights or support. Requests may be
+considered separately and remain subject to rights, privacy and ethics review.
+
+5. No warranty
+THE COVERED MATERIAL IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE AND NONINFRINGEMENT. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE
+LAW, THE RIGHTS HOLDERS ARE NOT LIABLE FOR CLAIMS, DAMAGES OR OTHER LIABILITY
+ARISING FROM THE MATERIAL OR ITS USE. THIS IS RESEARCH SOFTWARE, NOT A
+VALIDATED MEDICAL DEVICE OR CLINICAL DECISION SUPPORT SERVICE.
+
+6. Termination
+Permission under this license terminates upon material breach. Rights otherwise
+available under an applicable third-party license are not changed by this clause.
+
+This custom research-only license is not an OSI-approved open-source license.

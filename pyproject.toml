@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ctg-morphopatchformer"
+version = "0.3.1"
+description = "CTG architectures, event evaluation and inference-only output pipelines"
+readme = "README.md"
+license = {file = "LICENSE"}
+authors = [{name = "Pingao Wang"}, {name = "Department of Obstetrics and Gynecology, The Seventh Affiliated Hospital, Sun Yat-sen University"}]
+requires-python = ">=3.10"
+dependencies = ["torch>=2.3,<3", "numpy>=1.24,<3", "pandas>=2,<4", "scipy>=1.10,<2", "PyWavelets>=1.4,<2"]
+
+[project.scripts]
+ctg-evaluate = "ctg_morphopatchformer.evaluate_cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["ctg_morphopatchformer*"]

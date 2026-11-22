@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Cite this software and the original papers for the comparators you use."
+type: software
+title: "CTG-MorphoPatchFormer: Long-range context modeling for fetal heart rate acceleration and deceleration event detection"
+version: 0.3.1
+url: "https://github.com/pingaowang/CTG-MorphoPatchFormer"
+authors:
+  - family-names: "Wang"
+    given-names: "Pingao"
+  - name: "Department of Obstetrics and Gynecology, The Seventh Affiliated Hospital, Sun Yat-sen University"
+abstract: "Research software for fetal heart rate acceleration and deceleration detection, with model architectures, inference, event evaluation and aggregate results."
